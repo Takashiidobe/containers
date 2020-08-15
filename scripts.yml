@@ -1,0 +1,3 @@
+scripts:
+  test: deno test tests/SinglyLinkedList_tests.ts
+  imap: import_map.json
